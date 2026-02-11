@@ -1,11 +1,8 @@
-# CodeForces Journey
+## My Journey
+After discovering my interest in solving challenging questions under time constraints. I explored platforms that could help me pursue this interest and improve my problem-solving skills. CodeForces stuck out as a staple and I began competing in contests at the beginning of 2026.
 
 ## About CodeForces
 CodeForces is a popular programming website dedicated to the creation and running of programming contests. Contests include programming questions of increasing difficulty. If questions are completed within the time limit provided, rating points are awarded with harder questions awarding more points. More can be found on CodeForces [here](https://codeforces.com/help)!
-
-
-## My Journey
-After discovering my interest in solving challenging questions under time constraints. I explored platforms that could help me pursue this interest and improve my problem-solving skills. CodeForces stuck out as a staple and I began competing in contests at the beginning of 2026.
 
 ## About this Repository
 This repository includes my attempts at questions:
