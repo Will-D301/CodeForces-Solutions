@@ -1,14 +1,10 @@
 for _ in range(int(input())):
     x = int(input())
     res = 0
-    c = str(x).removeprefix('9')
 
-    if c and int(c) == 0:
-        print(0)
+    for i in range(x, x + 91):
+        digitSum = sum([int(a) for a in str(i)])
+        if i - digitSum == x:
+            res += 1
 
-
-    elif not x % 9:
-        print(10)
-
-    else:
-        print(0)
+    print(res)
